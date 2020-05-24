@@ -1,0 +1,8 @@
+[06:31:42] [LOG] Loader Initializing...
+[06:31:43] [LOG] Done!
+[06:31:45] [LOG] Steam Init...
+[06:31:45] [LOG] a
+[06:31:45] [LOG] b
+[06:31:45] [LOG] c
+[06:31:45] [LOG] Early out in main(): Steam Init failed.
+[06:31:56] [LOG] Succesfully unloaded driver
